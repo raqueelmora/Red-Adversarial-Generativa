@@ -1,0 +1,37 @@
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyo
+*.pyc
+*.pyo
+*.pyd
+*.pyo
+.pytest_cache/
+.pytest/
+.pytype/
+
+# Virtual environment
+venv/
+env/
+*.env
+pip-wheel-metadata/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Data directories
+data/
+
+# Model checkpoints
+checkpoints/
+
+# Compiled Python files
+*.pyc
+
+# Log files
+*.log
+
+# macOS-specific
+.DS_Store
